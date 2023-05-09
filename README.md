@@ -4,6 +4,6 @@ This project replicates the Tesla Model Website project, a web development proje
 
 ## Installation
 To install and run this project, follow the steps below:
-Markup : 1. Clone the repository using git clone https://github.com/your_username/tesla-model-website.git
-         2. Navigate to the project directory using cd tesla-model-website
-         3. Open the index.html file in your web browser
+1. Clone the repository using git clone https://github.com/your_username/tesla-model-website.git
+2. Navigate to the project directory using cd tesla-model-website
+3. Open the index.html file in your web browser
