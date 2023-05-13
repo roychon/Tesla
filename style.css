@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Tesla';
-    src: url(./GothamSSm-Book_Web\ \(2\).woff2);
+    src: url(./assets/fonts/GothamSSm-Book_Web\ \(2\).woff2);
 }
 
 @font-face {
     font-family: 'Tesla-Medium';
-    src: url(./GothamSSm-Medium_Web.woff2);
+    src: url(./assets/fonts/GothamSSm-Medium_Web.woff2);
 }
 
 * {
@@ -162,7 +162,7 @@ section {
 }
 
 section:nth-of-type(2) {
-    background: url("./model-y.jpeg");
+    background: url("./assets/images/model-y.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -196,34 +196,34 @@ section:nth-of-type(2) {
 }
 
 section:nth-of-type(3) {
-    background-image: url(./red-tesla.jpeg);
+    background-image: url(./assets/images/red-tesla.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 section:nth-of-type(4) {
-    background-image: url(./red-tesla2.jpeg);
+    background-image: url(./assets/images/red-tesla2.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 section:nth-of-type(5) {
-    background-image: url(./white-tesla.jpeg);
+    background-image: url(./assets/images/white-tesla.jpeg);
     background-size: cover;
     background-position: center;
 }
 section:nth-of-type(6) {
-    background-image: url(./solarpanels.jpeg);
+    background-image: url(./assets/images/solarpanels.jpeg);
     background-size: cover;
     background-position: center;
 }
 section:nth-of-type(7) {
-    background-image: url(./solar-roof-backgroundimage.webp);
+    background-image: url(./assets/images/solar-roof-backgroundimage.webp);
     background-size: cover;
     background-position: center;
 }
 section:nth-of-type(8) {
-    background-image: url(./tesla-charger.jpeg);
+    background-image: url(./assets/images/tesla-charger.jpeg);
     background-size: cover;
     background-position: center;
 }
